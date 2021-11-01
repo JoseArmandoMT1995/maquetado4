@@ -213,5 +213,7 @@ ___
 La implementación de CSS Flex Box simplifico la distribución de los elementos y recursos de la galería, FlexBox es un buen recurso para Front End.
 ___
 **Prueba. Vacante: Programador WEB**
+
 **NOMBRE DEL POSTULANTE: José Armando Moreno Tolentino**
+
 **EMAIL:  armando.moreno.tolentino@gmail.com**
