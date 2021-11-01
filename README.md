@@ -216,4 +216,6 @@ ___
 
 **NOMBRE DEL POSTULANTE: José Armando Moreno Tolentino**
 
-**EMAIL:  armando.moreno.tolentino@gmail.com**
+**E-mail:  armando.moreno.tolentino@gmail.com**
+
+**Repositorios github: https://github.com/JoseArmandoMT1995?tab=repositories**
